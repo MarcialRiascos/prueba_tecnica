@@ -1,0 +1,15 @@
+*{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-crear{
+    display: flex;
+    align-items: center;
+}
+
+label{
+    font-weight: 900;
+    text-align: end;
+    font-size: 15px;
+}
